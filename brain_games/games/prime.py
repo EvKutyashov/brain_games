@@ -3,7 +3,7 @@ from random import randint
 DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def get_round():
+def get_round()
     correct_answer = 'yes'
     number = randint(10, 1001)
     if number < 2 or not number % 2:
