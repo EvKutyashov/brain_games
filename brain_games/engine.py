@@ -6,10 +6,10 @@ ROUNDS_COUNT = 3
 def engine(game):
     print('Welcome to the Brain Games!')
     name = string('May I have your name? ')
-    question, correct_answer = game.get_round()
     print(f'Hello, {name}!')
     print(f'{game.DESCRIPTION}')
     for _ in range(ROUNDS_COUNT):
+        question, correct_answer = game.get_round()
         print(f'Question: {question}')
         answer = string('Your answer:  ')
         if answer == correct_answer:

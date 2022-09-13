@@ -11,5 +11,5 @@ def get_round()
     for i in range(3, number // 2 + 1):
         if not number % i:
             correct_answer = 'no'
-    question = f'Question: {number}'
+    question = f'{number}'
     return question, correct_answer
