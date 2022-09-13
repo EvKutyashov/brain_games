@@ -1,11 +1,11 @@
 from prompt import string
-from brain_games.cli import get_user_name
 
 ROUNDS_COUNT = 3
 
 
 def engine(game):
-    name = get_user_name()
+    print('Welcome to the Brain Games!')
+    name = string('May I have your name? ')
     question, correct_answer = game.get_round()
     print(f'Hello, {name}!')
     print(f'{game.DESCRIPTION}')
