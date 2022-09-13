@@ -1,8 +1,12 @@
-import prompt
-from brain_games.logic.even_logic import even_game
+# !/usr/bin/env python
+
+from brain_games.engine import engine
+from brain_games.games import even
+
 
 def main():
-    even_game()
+    engine(even)
+
 
 if __name__ == '__main__':
     main()

@@ -1,4 +1,4 @@
-install: #установить зависимости
+install:
 	poetry install
 brain-games: 
 	poetry run brain-games
