@@ -4,7 +4,7 @@ ROUNDS_COUNT = 3
 
 
 def engine(game):
-    #print('Welcome to the Brain Games!')
+    print('Welcome to the Brain Games!')
     name = string('May I have your name? ')
     print(f'Hello, {name}!')
     print(f'{game.DESCRIPTION}')
