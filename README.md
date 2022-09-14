@@ -18,7 +18,7 @@ git clone https://github.com/EvKutyashov/python-project-lvl1
 poetry install
 poetry build
 poetry publish
-python3 -m pip install dist/*.whl
+python3 -m pip install --upgrade --force-reinstall dist/hexlet_code-0.1.0-py3-none-any.whl
 ```
 
 
