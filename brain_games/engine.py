@@ -21,5 +21,3 @@ def engine(game):
                   f"Let's try again, {name}!")
             return
     print(f'Congratulations, {name}!')
-
-
