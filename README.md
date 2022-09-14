@@ -30,12 +30,12 @@ python3 -m pip install --upgrade --force-reinstall dist/hexlet_code-0.1.0-py3-no
 <a href="https://codeclimate.com/github/EvKutyashov/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/85a17abc67c5452ffcb6/maintainability" /></a>
 ### asciinema
 #### brain-gcd
-<a href="https://asciinema.org/a/PJE1GdyCyioahWBAyhp1ojX14" target="_blank"><img src="https://asciinema.org/a/PJE1GdyCyioahWBAyhp1ojX14.svg" /></a>
+<a href="https://asciinema.org/a/nhmkPy31HaZhHRbpx7wT0snhj" target="_blank"><img src="https://asciinema.org/a/nhmkPy31HaZhHRbpx7wT0snhj.svg" /></a>
 #### brain-calc
-<a href="https://asciinema.org/a/ZVj3USPXael8dwvn0XWbIxTNo" target="_blank"><img src="https://asciinema.org/a/ZVj3USPXael8dwvn0XWbIxTNo.svg" /></a>
+<a href="https://asciinema.org/a/0Jkon0F4hFWSD6vSugtwoBpwF" target="_blank"><img src="https://asciinema.org/a/0Jkon0F4hFWSD6vSugtwoBpwF.svg" /></a>
 #### brain-even
-<a href="https://asciinema.org/a/RDnFR8GGbQpWhbmjFiKvsdCBs" target="_blank"><img src="https://asciinema.org/a/RDnFR8GGbQpWhbmjFiKvsdCBs.svg" /></a>
+<a href="https://asciinema.org/a/EOoWX2YgHb9hd038kBCohHZrs" target="_blank"><img src="https://asciinema.org/a/EOoWX2YgHb9hd038kBCohHZrs.svg" /></a>
 #### brain-prime
-<a href="https://asciinema.org/a/wsWpaMWmvAKcIKfsCczmZhz7i" target="_blank"><img src="https://asciinema.org/a/wsWpaMWmvAKcIKfsCczmZhz7i.svg" /></a>
+<a href="https://asciinema.org/a/Ek8mG1IhxiGoJwNmwmUmOahYd" target="_blank"><img src="https://asciinema.org/a/Ek8mG1IhxiGoJwNmwmUmOahYd.svg" /></a>
 #### brain-progression
-<a href="https://asciinema.org/a/4V4RBGli27tRRSvGbJFU1BqSW" target="_blank"><img src="https://asciinema.org/a/4V4RBGli27tRRSvGbJFU1BqSW.svg" /></a>
+<a href="https://asciinema.org/a/f1AQ6RB5o97iAPv14BgaeqBIo" target="_blank"><img src="https://asciinema.org/a/f1AQ6RB5o97iAPv14BgaeqBIo.svg" /></a>
