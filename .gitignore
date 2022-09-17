@@ -1,1 +1,4 @@
 .venv
+dist
+.engine.py.swp
+__pycache__
