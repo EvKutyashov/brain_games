@@ -14,7 +14,7 @@ def is_prime(n):
     return True
 
 
-def generate_round():
+def get_round():
     START = 2
     END = 100
     random_number = randint(START, END)
