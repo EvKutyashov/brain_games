@@ -5,7 +5,6 @@ from brain_games.games import progression
 
 
 def main():
-    """Run progression game."""
     engine(progression)
 
 

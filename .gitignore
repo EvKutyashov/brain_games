@@ -2,3 +2,4 @@
 dist/
 .engine.py.swp
 __pycache__
+.brain_games.py.swp

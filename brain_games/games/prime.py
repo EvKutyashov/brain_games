@@ -3,13 +3,23 @@ from random import randint
 DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def get_round():
-    correct_answer = 'yes'
-    number = randint(10, 1001)
-    if number < 2 or not number % 2:
+def is_prime(n):
+    if n < 2:
+        return False
+    d = 2
+    while d <= n / 2:
+        if n % d == 0:
+            return False
+        d += 1
+    return True
+
+
+def generate_round():
+    START = 2
+    END = 100
+    random_number = randint(START, END)
+    if is_prime(random_number):
+        correct_answer = 'yes'
+    else:
         correct_answer = 'no'
-    for i in range(3, number // 2 + 1):
-        if not number % i:
-            correct_answer = 'no'
-    question = f'{number}'
-    return question, correct_answer
+    return random_number, correct_answer

@@ -5,7 +5,6 @@ from brain_games.games import gcd
 
 
 def main():
-    """Run gcd game."""
     engine(gcd)
 
 

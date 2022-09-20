@@ -5,7 +5,6 @@ from brain_games.games import prime
 
 
 def main():
-    """Run prime game."""
     engine(prime)
 
 
