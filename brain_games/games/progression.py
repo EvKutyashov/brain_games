@@ -8,6 +8,8 @@ STEP_2 = 5
 COUNT_1 = 5
 COUNT_2 = 10
 START_RANDOM = 0
+
+
 def get_round():
     start_progression = randint(START_1, START_2)
     step = randint(STEP_1, STEP_2)

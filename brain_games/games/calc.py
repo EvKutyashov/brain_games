@@ -5,6 +5,8 @@ START_NUM_1 = 1
 END_NUM_1 = 101
 START_NUM_2 = 1
 END_NUM_2 = 101
+
+
 def get_round():
     num_1 = randint(START_NUM_1, END_NUM_1)
     num_2 = randint(START_NUM_2, END_NUM_2)
