@@ -1,7 +1,8 @@
 from random import randint
 
 DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
-
+START = 2
+END = 100
 
 def is_prime(n):
     if n < 2:
@@ -15,8 +16,6 @@ def is_prime(n):
 
 
 def get_round():
-    START = 2
-    END = 100
     random_number = randint(START, END)
     if is_prime(random_number):
         correct_answer = 'yes'
